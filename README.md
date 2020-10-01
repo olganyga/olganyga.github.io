@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
  <head>
 <title>Ćwiczenia w HTML</title>
