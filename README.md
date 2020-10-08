@@ -9,7 +9,7 @@
  </head>
  <body>
 <h1>Ćwiczenia z edycji i formatowania<br/>
- stron WWW</h1>
+ stron <span class="typed_text">WWW</span></h1>
   <h2>Rozwiązania</h2>
   <ul>
    <li>
