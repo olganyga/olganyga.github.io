@@ -18,6 +18,9 @@
    <li>
 <a href="tekst.html">Tekst i hiperłącza</a>
    </li>
+   <li>
+<a href="obrazy.html">Obrazy</a>
+   </li>
   </ul>
   <h2>Szablony</h2>
   <div>
