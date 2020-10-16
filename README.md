@@ -21,6 +21,9 @@
    <li>
 <a href="obrazy.html">Obrazy</a>
    </li>
+    <li>
+<a href="tabele.html">Tabele</a>
+   </li>
   </ul>
   <h2>Szablony</h2>
   <div>
