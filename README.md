@@ -1,7 +1,7 @@
 <html lang="pl">
  <head>
 <title>Ćwiczenia w HTML</title>
-   <link rel="icon" href="favicon.png" sizes="32x32" type="image/png">
+   <link rel="shortcut icon" href="favicon.png" sizes="32x32" type="image/png">
  <meta charset="utf-8"/>
   <meta name="keywords" content="HTML, WWW"/>
   <meta name="description" content="Ćwiczenia z HTML"/>
