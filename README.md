@@ -3,6 +3,8 @@
     <head>
         <title>Strona główna</title>
 		<meta charset="utf-8"/>
+	    <link rel="stylesheet" href="styles/style.css">
+        <script src="scripts/script.js"></script>
         <meta name="keywords" content="Olga, Nyga"/>
   <meta name="description" content="Portfolio"/>
   <meta name="author" content="Olga Nyga"/>
@@ -10,7 +12,7 @@
   <link rel="alternate icon" href="favicon.png" sizes="32x32" type="image/png">
         <style>
             body {
-                <body style= background-image: url(https://i.pinimg.com/originals/55/e8/1e/55e81ed4b955587451af5555921d8002.jpg); color: white;">
+               
                     }
         </style>
     </head>
