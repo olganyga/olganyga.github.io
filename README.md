@@ -10,7 +10,7 @@
   <link rel="alternate icon" href="favicon.png" sizes="32x32" type="image/png">
         <style>
             body {
-                background-image:  url(https://images2.alphacoders.com/102/1020682.jpg)
+                background-image:  url(https://images2.alphacoders.com/102/1020682.jpg)background-attachment: fixed, color: white;
                     }
         </style>
     </head>
