@@ -17,7 +17,7 @@
     <body>
         <div id='cssmenu'>
             <ul>
-                <li class="active"><a href="index.html"><span>Główna Strona</span></a></li>
+                <li class="active"><a href="index.html"><span>Strona Główna</span></a></li>
                 <li><a href="html/prace.html"><span>Prace</span></a></li>
                 <li><a href="html/kontakt.html"><span>Kontakt</span></a></li>
             </ul>
