@@ -11,6 +11,7 @@
         <style>
             body {
                 background-image:  url(https://i.pinimg.com/originals/55/e8/1e/55e81ed4b955587451af5555921d8002.jpg)
+		background-size: cover;
                     }
         </style>
     </head>
