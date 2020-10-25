@@ -7,7 +7,7 @@
   <meta name="description" content="Portfolio"/>
   <meta name="author" content="Olga Nyga"/>
   <meta name="viewport" content="width=device-width"/>
-        <link rel="icon" href="images/favicon.png"/>
+  <link rel="alternate icon" href="favicon.png" sizes="32x32" type="image/png">
         <style>
             body {
                 background-image:  url(images/backgroung.jpg)
