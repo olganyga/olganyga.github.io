@@ -10,7 +10,7 @@
   <link rel="alternate icon" href="favicon.png" sizes="32x32" type="image/png">
         <style>
             body {
-                background-image:  url(images/backgroung.jpg)
+                background-image:  url('backgroung.jpg')
                     }
         </style>
     </head>
