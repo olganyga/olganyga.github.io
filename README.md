@@ -11,20 +11,27 @@
   <link rel="alternate icon" href="favicon.png" sizes="32x32" type="image/png">
         <style>
             body {
-		   background-image:url(https://i.pinimg.com/originals/55/e8/1e/55e81ed4b955587451af5555921d8002.jpg);
+		   background-image:url(https://www.wallpapertip.com/wmimgs/66-663189_purple-space-background.jpg);
  		background-size:auto ;
                     }
 		h1 {
 	text-align:center;
 	color:#ffffff;
 		}
+		h2 {
+	text-align:center;
+	color:#ffffff;
+		}
+		h3 {
+	color:#ffffff;
+		}
 		 a{color:#ffffff; text-align:center}
-		 p{color:#ffffff; text-align:center}
+		 p{color:#ffffff;}
         </style>
     </head>
     <body>
         <h1>O mnie</h1>
-        <p class="about">Nazywam się Olga Nyga i jestem uczennicą II klasy o profilu informatycznym.</p> 
+        <h2>Nazywam się Olga Nyga i jestem uczennicą II klasy o profilu informatycznym.</h2> 
 	    <h1>Moje Prace</h1>
         <ul>
    <li>
@@ -47,6 +54,6 @@
    </li>
   </ul>
 	    <h1>Kontakt</h1>
-	    <p> E-mail: </p> <a href="mailto:nazwa@serwer.pl">19c.olga.nyga@ezse.pl</a>
+	    <h3> E-mail: </h3> <a href="mailto:nazwa@serwer.pl">19c.olga.nyga@ezse.pl</a>
     </body>
 </html>
